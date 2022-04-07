@@ -678,15 +678,15 @@ a {
   transition: color 0.6s;
 }
 .cid-s48MCQYojq {
-  background-image: url("../../../assets/images/background7.jpg");
+  background-color: #ffffff;
 }
 .cid-s48MCQYojq .mbr-section-title {
   text-align: center;
-  color: #ff9966;
+  color: #353535;
 }
 .cid-s48MCQYojq .mbr-text,
 .cid-s48MCQYojq .mbr-section-btn {
-  color: #ffb18a;
+  color: #707070;
   text-align: center;
 }
 @media (max-width: 991px) {
@@ -695,6 +695,9 @@ a {
   .cid-s48MCQYojq .mbr-text {
     text-align: center;
   }
+}
+.cid-t2kygA1UCu {
+  background-color: #ffffff;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
